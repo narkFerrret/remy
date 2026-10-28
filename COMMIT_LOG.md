@@ -10,3 +10,4 @@
 | `2026-10-28 14:16:32` | `feat(diet): add deterministic pescatarian ingredient classifier and meat/poultry flags` |
 | `2026-10-28 14:24:29` | `feat(schedule): add T-60 quote and T-40 staging timetable scheduler` |
 | `2026-10-28 14:28:06` | `feat(mail): add transactional order receipt parser stub` |
+| `2026-10-28 14:32:36` | `infra(launchd): add KeepAlive plists for remy-desk serve (:8790) and watch loop` |
