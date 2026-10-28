@@ -15,3 +15,4 @@
 | `2026-10-28 21:19:59` | `style(ui): align order desk typography and panel grid with household shell` |
 | `2026-10-28 21:20:57` | `feat(platforms): parallel CDP tab fan-out for Deliveroo, Just Eat, and Uber Eats quotes` |
 | `2026-10-28 21:27:21` | `style(dashboard): compact quote cards and explicit approval cap badges` |
+| `2026-10-28 21:29:55` | `feat(watch): background order-page poller with 20s in-flight courier cadence` |
