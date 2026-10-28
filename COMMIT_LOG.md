@@ -11,3 +11,4 @@
 | `2026-10-28 14:24:29` | `feat(schedule): add T-60 quote and T-40 staging timetable scheduler` |
 | `2026-10-28 14:28:06` | `feat(mail): add transactional order receipt parser stub` |
 | `2026-10-28 14:32:36` | `infra(launchd): add KeepAlive plists for remy-desk serve (:8790) and watch loop` |
+| `2026-10-28 19:34:40` | `feat(server): serve local JSON API and initial order desk dashboard on 127.0.0.1:8790` |
