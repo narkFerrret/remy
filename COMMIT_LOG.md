@@ -13,3 +13,4 @@
 | `2026-10-28 14:32:36` | `infra(launchd): add KeepAlive plists for remy-desk serve (:8790) and watch loop` |
 | `2026-10-28 19:34:40` | `feat(server): serve local JSON API and initial order desk dashboard on 127.0.0.1:8790` |
 | `2026-10-28 21:19:59` | `style(ui): align order desk typography and panel grid with household shell` |
+| `2026-10-28 21:20:57` | `feat(platforms): parallel CDP tab fan-out for Deliveroo, Just Eat, and Uber Eats quotes` |
