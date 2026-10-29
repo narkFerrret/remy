@@ -17,3 +17,4 @@
 | `2026-10-28 21:27:21` | `style(dashboard): compact quote cards and explicit approval cap badges` |
 | `2026-10-28 21:29:55` | `feat(watch): background order-page poller with 20s in-flight courier cadence` |
 | `2026-10-28 21:39:10` | `test(gate): enforce hard SQLite approval token boundary before checkout staging` |
+| `2026-10-29 01:53:55` | `feat(ledger): backfill historical platform receipts into SQLite deliveries table` |
