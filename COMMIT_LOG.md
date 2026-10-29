@@ -22,3 +22,4 @@
 | `2026-10-29 03:02:35` | `test(ready): verify daypart slot ranking and dietary filter coverage` |
 | `2026-10-29 03:17:25` | `fix(justeat): handle dynamic restaurant availability and ETA extraction` |
 | `2026-10-29 14:08:40` | `feat(dispenser): add one-tap standing coffee order dispenser with cap guard` |
+| `2026-10-29 14:10:00` | `test(dispenser): add unit harness for standing coffee order state transitions` |
