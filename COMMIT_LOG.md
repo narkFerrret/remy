@@ -19,3 +19,4 @@
 | `2026-10-28 21:39:10` | `test(gate): enforce hard SQLite approval token boundary before checkout staging` |
 | `2026-10-29 01:53:55` | `feat(ledger): backfill historical platform receipts into SQLite deliveries table` |
 | `2026-10-29 02:45:12` | `feat(ready): add time-of-day daypart engine and preference-ranked Right Now slots` |
+| `2026-10-29 03:02:35` | `test(ready): verify daypart slot ranking and dietary filter coverage` |
