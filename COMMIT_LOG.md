@@ -27,3 +27,4 @@
 | `2026-10-30 10:15:55` | `fix(browser): attach to persistent local Chromium CDP profile without tab leaks` |
 | `2026-10-30 10:23:35` | `feat(reorder): implement native platform Order Again staging with price-cap verification` |
 | `2026-10-31 13:58:49` | `feat(map): bundle local Leaflet courier map for live in-flight delivery tracking` |
+| `2026-10-31 19:04:17` | `style(ui): refine in-progress courier telemetry strip and map viewport` |
