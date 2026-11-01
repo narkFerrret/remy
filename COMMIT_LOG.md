@@ -28,3 +28,4 @@
 | `2026-10-30 10:23:35` | `feat(reorder): implement native platform Order Again staging with price-cap verification` |
 | `2026-10-31 13:58:49` | `feat(map): bundle local Leaflet courier map for live in-flight delivery tracking` |
 | `2026-10-31 19:04:17` | `style(ui): refine in-progress courier telemetry strip and map viewport` |
+| `2026-11-01 15:51:09` | `docs(readme): document CLI workflows, approval boundary, and basket lifecycle` |
