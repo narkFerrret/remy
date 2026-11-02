@@ -32,3 +32,4 @@
 | `2026-11-02 06:41:22` | `fix(track): normalize courier coordinates and terminal delivery states across platforms` |
 | `2026-11-02 15:56:18` | `refactor(copy): cut dashboard word density by 49% (3,987 to 2,021 words); move prose to tooltips` |
 | `2026-11-02 16:55:12` | `style(tables): show only delta state in rotation rows (closed, opens-at, ETA, fee)` |
+| `2026-11-02 18:06:02` | `feat(ocado): add grocery product search and basket staging adapter` |
