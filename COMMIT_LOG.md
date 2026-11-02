@@ -30,3 +30,4 @@
 | `2026-10-31 19:04:17` | `style(ui): refine in-progress courier telemetry strip and map viewport` |
 | `2026-11-01 15:51:09` | `docs(readme): document CLI workflows, approval boundary, and basket lifecycle` |
 | `2026-11-02 06:41:22` | `fix(track): normalize courier coordinates and terminal delivery states across platforms` |
+| `2026-11-02 15:56:18` | `refactor(copy): cut dashboard word density by 49% (3,987 to 2,021 words); move prose to tooltips` |
