@@ -35,3 +35,4 @@
 | `2026-11-02 18:06:02` | `feat(ocado): add grocery product search and basket staging adapter` |
 | `2026-11-03 20:22:14` | `feat(handover): add checkout screenshot evidence and human handover tab focus` |
 | `2026-11-03 20:23:46` | `test(server): verify handover API endpoints and basket state transitions` |
+| `2026-11-03 22:05:20` | `test(parsers): add fixture suite for platform receipt and courier state parsers` |
