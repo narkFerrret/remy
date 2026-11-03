@@ -34,3 +34,4 @@
 | `2026-11-02 16:55:12` | `style(tables): show only delta state in rotation rows (closed, opens-at, ETA, fee)` |
 | `2026-11-02 18:06:02` | `feat(ocado): add grocery product search and basket staging adapter` |
 | `2026-11-03 20:22:14` | `feat(handover): add checkout screenshot evidence and human handover tab focus` |
+| `2026-11-03 20:23:46` | `test(server): verify handover API endpoints and basket state transitions` |
