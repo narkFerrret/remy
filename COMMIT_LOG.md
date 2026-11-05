@@ -41,3 +41,4 @@
 | `2026-11-05 10:16:01` | `fix(handover): guard against duplicate basket staging on rapid clicks` |
 | `2026-11-05 11:31:08` | `feat(ledger): track full basket attempt history and abandonment reasons` |
 | `2026-11-05 13:02:12` | `feat(retail): add Amazon and Temu product search and basket staging adapters` |
+| `2026-11-05 13:09:38` | `feat(api): expose unified order-now and platform session readiness to observatory hub` |
