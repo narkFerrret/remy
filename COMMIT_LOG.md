@@ -40,3 +40,4 @@
 | `2026-11-03 23:03:09` | `feat(suggest): rank re-order candidates by weekday and time-of-day affinity` |
 | `2026-11-05 10:16:01` | `fix(handover): guard against duplicate basket staging on rapid clicks` |
 | `2026-11-05 11:31:08` | `feat(ledger): track full basket attempt history and abandonment reasons` |
+| `2026-11-05 13:02:12` | `feat(retail): add Amazon and Temu product search and basket staging adapters` |
