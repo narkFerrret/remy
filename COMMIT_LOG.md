@@ -39,3 +39,4 @@
 | `2026-11-03 22:07:47` | `feat(evidence): capture full-page checkout verification screenshots before handover` |
 | `2026-11-03 23:03:09` | `feat(suggest): rank re-order candidates by weekday and time-of-day affinity` |
 | `2026-11-05 10:16:01` | `fix(handover): guard against duplicate basket staging on rapid clicks` |
+| `2026-11-05 11:31:08` | `feat(ledger): track full basket attempt history and abandonment reasons` |
